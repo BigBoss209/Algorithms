@@ -3,7 +3,7 @@ package UndirectedGraph;
 import java.util.Stack;
 
 /**
- * @Auther 刘金明
+ * @Auther LJM
  * @Date 2020/4/28-21:59
  * Description 以s为起点的路径
  */

@@ -1,7 +1,7 @@
 package UndirectedGraph;
 
 /**
- * @Auther 刘金明
+ * @Auther LJM
  * @Date 2020/4/28-21:36
  * Description 深度优先搜索
  */

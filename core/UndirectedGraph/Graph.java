@@ -4,7 +4,7 @@ package UndirectedGraph;
 import Bag.Bag;
 
 /**
- * @Auther 刘金明
+ * @Auther LJM
  * @Date 2020/4/28-17:09
  * Description 无向图  Array + Bag 邻接表
  */
